@@ -1,3 +1,9 @@
+.*
+!.gitignore
+#---------------------------------above is added by myself
+
+
+
 foobar*
 pretrained_models
 notebooks

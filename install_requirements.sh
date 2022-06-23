@@ -9,4 +9,6 @@ pip install lws
 pip install nnmnkwii
 conda install keras=2.2.0
 conda install tensorboardX
+conda install typing-extensions=4.1.1
 python setup.py install
+pip install -I torch==1.10.2
